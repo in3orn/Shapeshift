@@ -1,0 +1,39 @@
+{
+    "levels": [
+        {
+            "name": "Training camp",
+            "unlocked": false,
+            "stars": 0
+        },
+        {
+            "name": "Academy",
+            "unlocked": false,
+            "stars": 0
+        },
+        {
+            "name": "Frostwind lake",
+            "unlocked": false,
+            "stars": 0
+        },
+        {
+            "name": "Dark forest",
+            "unlocked": false,
+            "stars": 0
+        },
+        {
+            "name": "Western plains",
+            "unlocked": false,
+            "stars": 0
+        },
+        {
+            "name": "Ordoko desert",
+            "unlocked": false,
+            "stars": 0
+        },
+        {
+            "name": "Dragon hills",
+            "unlocked": false,
+            "stars": 0
+        }
+    ]
+}

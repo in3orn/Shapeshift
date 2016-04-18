@@ -1,0 +1,231 @@
+{
+    "heroes": [
+        {
+            "name":"Dark druid",
+            "experience": 0,
+            "level": 1,
+            "skills": [
+                {
+                    "name":"Firebolt",
+                    "type":0,
+                    "mana":2,
+                    "value":22
+                },
+                {
+                    "name":"Ignite",
+                    "type":1,
+                    "mana":2,
+                    "value":2
+                },
+                {
+                    "name":"Vigor",
+                    "type":3,
+                    "mana":3,
+                    "value":3
+                },
+                {
+                    "name":"Fireball",
+                    "type":0,
+                    "mana":6,
+                    "value":70
+                },
+                {
+                    "name":"Blackbear form",
+                    "type":4,
+                    "mana":9,
+                    "value":0
+                }
+            ]
+        },
+        {
+            "name":"Frost druid",
+            "experience": 0,
+            "level": 1,
+            "skills": [
+                {
+                    "name":"Frostbolt",
+                    "type":0,
+                    "mana":2,
+                    "value":22
+                },
+                {
+                    "name":"Frozen wounds",
+                    "type":2,
+                    "mana":3,
+                    "value":34
+                },
+                {
+                    "name":"Freezing cold",
+                    "type":1,
+                    "mana":3,
+                    "value":3
+                },
+                {
+                    "name":"Blizzard",
+                    "type":1,
+                    "mana":6,
+                    "value":6
+                },
+                {
+                    "name":"Frostwolf form",
+                    "type":4,
+                    "mana":9,
+                    "value":0
+                }
+            ]
+        },
+        {
+            "name":"Lone druid",
+            "experience": 0,
+            "level": 1,
+            "skills": [
+                {
+                    "name":"Lightning bolt",
+                    "type":0,
+                    "mana":2,
+                    "value":22
+                },
+                {
+                    "name":"Healing wind",
+                    "type":3,
+                    "mana":3,
+                    "value": 3
+                },
+                {
+                    "name":"Tornado",
+                    "type":1,
+                    "mana":3,
+                    "value":3
+                },
+                {
+                    "name":"Lightning",
+                    "type":0,
+                    "mana":6,
+                    "value":70
+                },
+                {
+                    "name":"Falcon form",
+                    "type":4,
+                    "mana":9,
+                    "value":0
+                }
+            ]
+        },
+
+
+
+
+        {
+            "name":"Black bear",
+            "experience": 0,
+            "level": 1,
+            "skills": [
+                {
+                    "name":"Hard skin",
+                    "type":3,
+                    "mana":2,
+                    "value":2
+                },
+                {
+                    "name":"Bear claws",
+                    "type":0,
+                    "mana":3,
+                    "value":34
+                },
+                {
+                    "name":"Roar",
+                    "type":2,
+                    "mana":3,
+                    "value":34
+                },
+                {
+                    "name":"Charge",
+                    "type":0,
+                    "mana":5,
+                    "value":58
+                },
+                {
+                    "name":"Fury",
+                    "type":1,
+                    "mana":7,
+                    "value":7
+                }
+            ]
+        },
+        {
+            "name":"Frost wolf",
+            "experience": 0,
+            "level": 1,
+            "skills": [
+                {
+                    "name":"Wolf claws",
+                    "type":0,
+                    "mana":2,
+                    "value":22
+                },
+
+                {
+                    "name":"Sharp fangs",
+                    "type":1,
+                    "mana":2,
+                    "value":2
+                },
+                {
+                    "name":"Wolfs' howl",
+                    "type":2,
+                    "mana":2,
+                    "value":22
+                },
+                {
+                    "name":"Deep bite",
+                    "type":0,
+                    "mana":3,
+                    "value":34
+                },
+                {
+                    "name":"Wolfpack",
+                    "type":4,
+                    "mana":5,
+                    "value":5
+                }
+            ]
+        },
+        {
+            "name":"Thunder falcon",
+            "experience": 0,
+            "level": 1,
+            "skills": [
+                {
+                    "name":"Beak strike",
+                    "type":0,
+                    "mana":2,
+                    "value":22
+                },
+                {
+                    "name":"Falcon claws",
+                    "type":1,
+                    "mana":3,
+                    "value":3
+                },
+                {
+                    "name":"Healing speed",
+                    "type":3,
+                    "mana":4,
+                    "value":4
+                },
+                {
+                    "name":"Airstrike",
+                    "type":0,
+                    "mana":7,
+                    "value":82
+                },
+                {
+                    "name":"Resurrection",
+                    "type":3,
+                    "mana":9,
+                    "value":9
+                }
+            ]
+        }
+    ]
+}
